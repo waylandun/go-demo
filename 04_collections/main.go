@@ -4,6 +4,7 @@ package main
 import "fmt"
 
 func main() {
+
 	// 数组: 固定长度，值类型
 	var scores [3]int = [3]int{95, 88, 76}
 	fmt.Println("数组:", scores)
